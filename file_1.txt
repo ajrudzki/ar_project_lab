@@ -3,3 +3,11 @@ Hello world
 Goodbye world
 
 This is a strange world
+
+Hi 
+
+It's nice 
+
+To work with you 
+
+using this GitHub Training Session
